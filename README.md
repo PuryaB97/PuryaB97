@@ -1,9 +1,9 @@
-<img align="center" alt="nature" width="900" height="400" src="https://c.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif" />
+
 
 <h1 align="center">Hi, I'm Poriya Behdarvandan</h1>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 
 <a href="https://twitter.com/sophrosyne97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sophrosyne97" height="30" width="32" /></a>
 <a href="https://linkedin.com/in/purya behdarvandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purya behdarvandan" height="30" width="32" /></a>
