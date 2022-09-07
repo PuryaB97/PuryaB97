@@ -42,8 +42,11 @@
 </div>
 
 <p align="center">
-
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=puryab97&show_icons=true&theme=dark&hide_border=true&title_color=2a9d8f&icon_color=2a9d8f" alt="puryab97" />
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=puryab97&theme=dark&hide_border=true&ring=006466&fire=2a9d8f&currStreakLabel=2a9d8f" alt="puryab97" />
-
 </p>
+
+<p align="center">
+<img align="center" alt="nature" width="600" height="400" src="https://c.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif" />
+</p>
+
