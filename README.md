@@ -47,6 +47,6 @@
 </p>
 
 <p align="center">
-<img align="center" alt="nature" width="600" height="400" src="https://c.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif" />
+<img align="center" alt="nature" width="800" height="400" src="https://c.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif" />
 </p>
 
