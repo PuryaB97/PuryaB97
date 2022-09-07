@@ -1,19 +1,15 @@
-
-
 <h1 align="center">Hi, I'm Poriya Behdarvandan</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
-
 <a href="https://twitter.com/sophrosyne97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sophrosyne97" height="30" width="32" /></a>
 <a href="https://linkedin.com/in/purya behdarvandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purya behdarvandan" height="30" width="32" /></a>
 <a href="https://stackoverflow.com/users/poriya behdarvandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="poriya behdarvandan" height="30" width="32" /></a>
 <a href="https://medium.com/@purya.b97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@purya.b97" height="30" width="32" /></a>
 <a href="https://discord.gg/Purya#0426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Purya#0426" height="30" width="32" /></a>
-
 </p>
 
-<h3 align="left">Some Languages and Tools that I'm familiar with:</h3>
+<h3 align="center">Some Languages and Tools that I'm familiar with</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="32" height="32"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="32" height="32"/> </a>
@@ -45,7 +41,7 @@
 <h3>Here is some stats for you</h3>
 </div>
 
-<p align="left">
+<p align="center">
 
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=puryab97&show_icons=true&theme=dark&hide_border=true&title_color=2a9d8f&icon_color=2a9d8f" alt="puryab97" />
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=puryab97&theme=dark&hide_border=true&ring=006466&fire=2a9d8f&currStreakLabel=2a9d8f" alt="puryab97" />
