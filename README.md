@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Poriya Behdarvandan</h1>
+<h1 align="center">Hi, I'm Pouriya Behdarvandan</h1>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
